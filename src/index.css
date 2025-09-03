@@ -3,3 +3,6 @@
 @tailwind utilities;
 @import "tailwindcss";
 
+body{
+    background-color: rgba(207,203,231);
+}
